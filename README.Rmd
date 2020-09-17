@@ -36,7 +36,7 @@ tema_graficos <- function() {
 
 ```
 
-# Evolução dos casos de COVID-19 no Brasil, período 26/02/2020 a 28/08/2020
+# Evolução dos casos de COVID-19 no Brasil, período 26/02/2020 a 28/08/2020.
 
 <!-- badges: start -->
 <!-- badges: end -->
